@@ -1,0 +1,14 @@
+E	Sweet
+A	Bitter
+A	Sweet
+Miss	Miss
+F	Bitter
+A	Sweet
+E	Sweet
+F	Bitter
+B	Sweet
+E	Sweet
+B	Bitter
+B	Bitter
+B	Bitter
+Miss	Miss
